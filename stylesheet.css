@@ -39,3 +39,15 @@ body{
 .navbar a:hover{
     color: #0ef;
 }
+.home{
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+    height: 100vh;
+    background:linear-gradient(135deg,#020024,#010129,#000000,#0a0f1f) no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+}
